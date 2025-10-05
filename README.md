@@ -1,6 +1,7 @@
+# Summary
 I developed a Recurrent Neural Network (RNN) based word predictor trained on Shakespeare’s Hamlet. The project leverages Natural Language Processing (NLP) techniques to predict the next word in a sequence, effectively learning the style and structure of Shakespearean language.
 
-Key components and technologies used:
+# Key components and technologies used:
 
 Python – Core programming language for data processing and model development.
 
